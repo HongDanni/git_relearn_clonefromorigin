@@ -1,3 +1,1 @@
-# git_relearn_clonefromorigin
-creating a new branch is quick and simple.
-
+分制管理策略。
